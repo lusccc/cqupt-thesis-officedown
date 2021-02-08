@@ -1,0 +1,14 @@
+book_filename: "my_thesis"
+delete_merged_file: true
+
+language:
+  label:
+    thm: '定理'
+    def: '定义'
+    exm: '例'
+    proof: '证明: '
+    solution: '解: '
+    fig: '图'
+    tab: '表'
+  ui:
+    chapter_name: ''
